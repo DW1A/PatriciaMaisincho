@@ -1,5 +1,5 @@
 #  te voy a borrar 
 
-## porque solo eres un ejemplo  
+## porque solo eres un ejemplo ·· 
 
 **adiós**
