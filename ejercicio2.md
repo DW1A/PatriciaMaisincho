@@ -28,7 +28,7 @@ b.Investiga un poco y trata de identificar el significado de 3 etiquetas que vea
 
 HTML
 
-2![captura3](https://github.com/DW1A/jorgedominguez/assets/145561025/b8fc2159-cf2d-45dd-8a4b-065ed9226797)
+///![captura3](https://github.com/DW1A/jorgedominguez/assets/145561025/b8fc2159-cf2d-45dd-8a4b-065ed9226797)///
 
 
 XML
