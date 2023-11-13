@@ -26,13 +26,17 @@ b.Investiga un poco y trata de identificar el significado de 3 etiquetas que vea
 
 4.	 
 
-HTML 
+HTML
+
 2![captura3](https://github.com/DW1A/jorgedominguez/assets/145561025/b8fc2159-cf2d-45dd-8a4b-065ed9226797)
 
 
 XML
+
 ![captura3 5](https://github.com/DW1A/jorgedominguez/assets/145561025/666098ff-5c19-42ac-a171-36753ef74481)
 
 
 LaTeX
+
+
 ![captura4](https://github.com/DW1A/jorgedominguez/assets/145561025/f5cc09e4-1b2a-4ebc-8c5f-c76b8702ad0b)
