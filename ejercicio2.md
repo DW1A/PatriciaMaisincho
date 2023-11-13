@@ -10,8 +10,9 @@ Introducción a los lenguajes de marcas
 2. Abrir http://elmundo.es con un navegador e investigar cómo visualizar el código HTML con el que están escritas sus páginas.
 
 a.Realizar esta operación al menos con dos navegadores diferentes,capturar las pantallas obtenidas y comentar las diferencias observadas.
+
 Google chrome
-![githubç](https://github.com/DW1A/PatriciaMaisincho/assets/145560659/a1ca6fc4-589a-44fa-a59a-e0ba0213320a)
+![image](https://github.com/DW1A/PatriciaMaisincho/assets/145560659/9c443931-e9a6-458f-a53a-ccc28bc2a2dd)
 
 Microsoft Edge
 ![image](https://github.com/DW1A/PatriciaMaisincho/assets/145560659/9612bf7e-b6c2-477f-ae9e-2f67d3642118)
