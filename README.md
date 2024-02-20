@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 soy Patricia .</h1>
 
-<h3 align="left">Actualmente soy estudiante de desarrollo de aplicaciones web 'DAW' utilizando github en las asignaturas de lenguajes de marcos y entornos de desarollo </h3>
+<h3 align="left">Actualmente soy estudiante de desarrollo de aplicaciones web 'DAW' utilizando github en las asignaturas de lenguajes de marcas y entornos de desarollo </h3>
 <p align="left">
 </p>
 
