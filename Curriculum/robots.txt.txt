@@ -1,0 +1,8 @@
+/# Archivo robots.txt para [Mi-CV]
+
+User-agent: *
+Disallow: /
+
+
+User-agent: Googlebot
+Disallow: /
